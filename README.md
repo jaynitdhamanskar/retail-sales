@@ -3,8 +3,6 @@
 # Project Overview
 
 **Project Title:** Retail Sales Analysis
-**Level:** Beginner
-**Database:** retail
 
 This project showcases essential SQL skills used by data analysts to explore, clean, and analyze retail sales data. It covers database setup, data validation, exploratory data analysis, and business-focused insights. This project is ideal for beginners who want to strengthen their SQL foundation with a real-world retail dataset.
 
