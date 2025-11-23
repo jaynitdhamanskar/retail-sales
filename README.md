@@ -113,11 +113,10 @@ Evenings are the peak shopping period, likely due to customer availability.
 
 ## Reports Generated
 
-**Sales Summary Report:** Overview of category‑wise sales, order volume, and revenue distribution.
-**Customer Insights Report:** Top customers, unique customers per category, and demographic observations.
-**Trend Analysis Report:** Monthly performance, shift‑based ordering, and seasonal behaviors.
+* **Sales Summary Report:** Overview of category‑wise sales, order volume, and revenue distribution.
+* **Customer Insights Report:** Top customers, unique customers per category, and demographic observations.
+* **Trend Analysis Report:** Monthly performance, shift‑based ordering, and seasonal behaviors.
+
 ## Conclusion
 
 This project provides a complete end‑to‑end SQL analysis workflow. It strengthens foundational SQL skills such as aggregation, grouping, filtering, and date/time functions. The insights gained can support decisions in customer targeting, inventory planning, and sales optimization.
-
-*This project serves as an excellent starting point for anyone entering the world of SQL‑based data analysis.*
